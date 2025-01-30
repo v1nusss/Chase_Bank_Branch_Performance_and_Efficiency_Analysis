@@ -40,6 +40,14 @@ The analysis is conducted in Python using:
 - The total deposits in 2016 are analyzed across all branches.
 - The branch with the highest deposits and the fastest growth rate are identified.
 - A geospatial map of branch locations is generated for further insights.
+- 
+
+Here is a Deposit Growth Trend for Top 10 Branches
+
+![Top 10 Branches](Deposit Growth Trend for Top 10 Branches.png)
+
+Here is a chase_branch_map
+![branch_map](chase_branch_map.png)
 
 ## How to Run
 1. Clone this repository:
