@@ -44,7 +44,7 @@ The analysis is conducted in Python using:
 
 Here is a Deposit Growth Trend for Top 10 Branches
 
-![Top 10 Branches](Deposit Growth Trend for Top 10 Branches.png)
+![Top 10 Branches](Deposit%20Growth%20Trend%20for%20Top%2010%20Branches.png)
 
 Here is a chase_branch_map
 ![branch_map](chase_branch_map.png)
